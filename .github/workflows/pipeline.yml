@@ -43,3 +43,5 @@ jobs:
           destination-repository-name: "Noa987.github.io"
           user-email: noa.mourareau@gmail.com
           target-branch: main
+          
+      - run: npm run deploy
